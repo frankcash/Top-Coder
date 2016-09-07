@@ -1,4 +1,7 @@
-
+/**
+ * Sept 06, 2016
+ * @author cfcash 
+ */
 public class Substitute {
 	
 	public int getInt(String key, String Code){
