@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Solution {
-
+	// Checks if an array can be sorted with no more than one swap
 	public static boolean sorts(int[] A){
 		boolean val = true;
 
